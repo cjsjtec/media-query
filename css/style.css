@@ -367,13 +367,13 @@ img {
 		padding: 0;
 		float: left;
 	}
-	.menu li a {
+	.menu ul li a {
 		color: #130400;
 		font-size: 1em;
 		padding: 15px;
 	}
 
-	.menu li a:hover {
+	.menu ul li a:hover {
 		border: none;
 		color: #da6709;
 	}
